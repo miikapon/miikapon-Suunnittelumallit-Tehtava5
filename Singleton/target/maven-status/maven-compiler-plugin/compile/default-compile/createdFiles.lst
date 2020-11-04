@@ -1,0 +1,5 @@
+singleton\Main.class
+singleton\Expense.class
+singleton\Income.class
+singleton\Balance.class
+singleton\Transfer.class
